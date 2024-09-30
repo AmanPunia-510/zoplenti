@@ -11,6 +11,7 @@ module.exports = {
         130: "130%",
         133: "133%",
         143: "143%",
+        164: "164%",
         170: "170%",
       },
       backgroundColor: {
@@ -21,6 +22,8 @@ module.exports = {
         "grey": "#FFFFFF1A",
         "rich-white": "#FCFCFC;",
         "bg-color" : "#000c24",
+        "rich-white": "#FCFCFC",
+        "rich-grey": "#626262",
       },
       backgroundImage: {
         timelineGradient: "linear-gradient(180deg, #33B6FF -1.9%, rgba(51, 182, 255, 0.52) 58.18%, rgba(11, 6, 42, 0) 100%)",
