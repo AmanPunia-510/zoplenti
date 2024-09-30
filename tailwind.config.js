@@ -15,8 +15,14 @@ module.exports = {
       colors: {
         "blue": "#33B6FF",
       },
-        fontSize: {
+      fontSize: {
         "custom-xl": "30px",
+      },
+      container: {
+        center: true,
+        padding: {
+          DEFAULT: "20px",
+        },
       },
     },
   },
