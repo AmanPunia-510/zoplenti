@@ -7,6 +7,7 @@
   src: url("/assets/fonts/AEONIK-REGULAR.TTF");
   font-weight: 400;
 }
+
 @font-face {
   font-family: "AeonikTRAIL";
   src: url("/assets/fonts/AEONIK-LIGHT.TTF");
@@ -19,7 +20,10 @@
   font-weight: 700;
 }
 
-*{
-    font-family: "AeonikTRAIL";
-    background-color: #000c24;
+* {
+  font-family: "AeonikTRAIL";
+}
+
+body {
+  background-color: #000c24;
 }
