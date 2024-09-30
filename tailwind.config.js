@@ -14,13 +14,24 @@ module.exports = {
         164: "164%",
         170: "170%",
       },
+      backgroundColor: {
+        "timelineBg": "#040A26",
+      },
       colors: {
         "blue": "#33B6FF",
         "grey": "#FFFFFF1A",
         "rich-white": "#FCFCFC",
         "rich-grey": "#626262",
       },
+      backgroundImage: {
+        timelineGradient: "linear-gradient(180deg, #33B6FF -1.9%, rgba(51, 182, 255, 0.52) 58.18%, rgba(11, 6, 42, 0) 100%)",
+        iconGradient: "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 100%)",
+        borderGradient: "linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.1) 100%)",
+        hero: "url(../../public/assets/images/png/hero.png)",
+        verticleBorder: "linear-gradient(90deg, #000C24 0%, #33B6FF 10%, #33B6FF 90%, #000C24 100%)",
+      },
       fontSize: {
+        "custom-lg": "28px",
         "custom-xl": "30px",
         "custom-2xl": "56px",
       },
@@ -30,9 +41,6 @@ module.exports = {
           DEFAULT: "20px",
         },
       },
-      backgroundImage: {
-        hero: "url(../../public/assets/images/png/hero.png)",
-      }
     },
   },
   plugins: [],
