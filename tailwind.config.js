@@ -11,12 +11,14 @@ module.exports = {
         130: "130%",
         133: "133%",
         143: "143%",
+        164: "164%",
         170: "170%",
       },
       colors: {
         "blue": "#33B6FF",
         "grey": "#FFFFFF1A",
-        "rich-white": "#FCFCFC;"
+        "rich-white": "#FCFCFC",
+        "rich-grey": "#626262",
       },
       fontSize: {
         "custom-xl": "30px",
