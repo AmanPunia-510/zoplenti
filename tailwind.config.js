@@ -7,12 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
-        lineHeight: {
+      lineHeight: {
         130: "130%",
         133: "133%",
         170: "170%",
       },
-      fontSize: {
+      colors: {
+        "blue": "#33B6FF",
+      },
+        fontSize: {
         "custom-xl": "30px",
       },
     },
