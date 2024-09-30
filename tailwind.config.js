@@ -10,13 +10,17 @@ module.exports = {
       lineHeight: {
         130: "130%",
         133: "133%",
+        143: "143%",
         170: "170%",
       },
       colors: {
         "blue": "#33B6FF",
+        "grey": "#FFFFFF1A",
+        "rich-white": "#FCFCFC;"
       },
       fontSize: {
         "custom-xl": "30px",
+        "custom-2xl": "56px",
       },
       container: {
         center: true,
@@ -24,6 +28,9 @@ module.exports = {
           DEFAULT: "20px",
         },
       },
+      backgroundImage: {
+        hero: "url(../../public/assets/images/png/hero.png)",
+      }
     },
   },
   plugins: [],
