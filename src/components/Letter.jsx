@@ -7,7 +7,7 @@ const Letter = () => {
         <div className='my-36'>
             <div className="container max-w-[1180px]">
                 <div className="max-w-[1022px] w-full bg-rich-white xl:h-[1443px]">
-                    <div className="bg-blue flex justify-between items-center p-4 sm:p-6 lg:py-[23px] lg:px-10 flex-wrap max-sm:flex-wrap">
+                    <div className="bg-picton-blue flex justify-between items-center p-4 sm:p-6 lg:py-[23px] lg:px-10 flex-wrap max-sm:flex-wrap">
                         <p className='text-sm leading-164 text-white font-normal '>From the office of:
                             <span className='font-bold block'>Steven Hollander, CEO</span></p>
                         <Image

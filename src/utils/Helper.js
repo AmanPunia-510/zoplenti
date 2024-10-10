@@ -68,3 +68,29 @@ export const LETTER_DATA_LIST = [
         ]
     },
 ]
+
+export const DOMINATE_CATEGORY_DATA_LIST = {
+    heading: {
+        subheading: "WHY IT MATTERS",
+        mainheading: "We want our partners to dominate their category",
+        description:
+            "There is only one way to grow your brand on Amazon: taking market share away from your competitors. We deliver that by partnering exclusively with one brand in each subcategory, and investing heavily in marketing initiatives to turn more shoppers into your customers.",
+    },
+    cards: [
+        {
+            title: "Optimization",
+            description:
+                "We optimize your product detail pages to turn more shoppers into customers, using industry-specific best practices. We also use ZVP to find and track the best keywords to include in your pages.",
+        },
+        {
+            title: "Advertising Campaigns",
+            description:
+                "We invest part of our budget in strategic marketing campaigns to drive traffic and increase your product rankings for specific, highly relevant keywords we want to grow in – not just driving sales.",
+        },
+        {
+            title: "Brand Positioning",
+            description:
+                "Amazon is more than just product listings; it’s a platform for building a strong brand presence. We assist our partners with catalog-wide initiatives, from compelling brand store pages to optimizing...",
+        },
+    ],
+};

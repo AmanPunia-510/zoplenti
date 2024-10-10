@@ -7,7 +7,7 @@ const Fitonist = () => {
             <div className="container max-w-[1180px]">
                 <div className="border border-grey w-full"></div>
                 <Image
-                    className='rounded-3xl border border-blue my-20 sm:my-24 xl:my-[140px] h-[190px] sm:h-auto'
+                    className='rounded-3xl border border-picton-blue my-20 sm:my-24 xl:my-[140px] h-[190px] sm:h-auto'
                     src='/assets/images/webp/fintonist.webp'
                     width={1440}
                     height={480}

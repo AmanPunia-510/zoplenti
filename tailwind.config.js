@@ -13,15 +13,29 @@ module.exports = {
         143: "143%",
         164: "164%",
         170: "170%",
+        115: "115%",
+        125: "125%",
+        170: "170%",
+        177: "177%",
+        142: "144%",
+        144: "144%",
+        150: "150%",
+        160: "160%",
       },
       backgroundColor: {
         "timelineBg": "#040A26",
       },
       colors: {
-        "blue": "#33B6FF",
         "grey": "#FFFFFF1A",
         "rich-white": "#FCFCFC",
         "rich-grey": "#626262",
+        "black-pearl": "#000C24",
+        "curious-blue": "#2A95D7",
+        "picton-blue": "#33B6FF",
+        platinum: "#E0E0E0",
+        "midnight-moss": "#020202",
+        "bright-grey": "#333D50",
+        "navy-blue": "#051D39",
       },
       backgroundImage: {
         timelineGradient: "linear-gradient(180deg, #33B6FF -1.9%, rgba(51, 182, 255, 0.52) 58.18%, rgba(11, 6, 42, 0) 100%)",
@@ -31,9 +45,9 @@ module.exports = {
         verticleBorder: "linear-gradient(90deg, #000C24 0%, #33B6FF 10%, #33B6FF 90%, #000C24 100%)",
       },
       fontSize: {
-        "custom-lg": "28px",
+        "custom-3xl": "28px",
         "custom-xl": "30px",
-        "custom-2xl": "56px",
+        "custom-5xl": "56px",
       },
       container: {
         center: true,
@@ -45,3 +59,4 @@ module.exports = {
   },
   plugins: [],
 };
+
