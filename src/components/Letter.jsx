@@ -1,4 +1,4 @@
-import { LETTER_DATA_LIST } from '@/utils/Helper'
+import { LETTER_DATA_LIST } from '@/utils/helper'
 import Image from 'next/image'
 import React from 'react'
 

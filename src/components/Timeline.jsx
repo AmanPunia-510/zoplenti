@@ -1,4 +1,4 @@
-import { TIMELINE_DATA } from '@/utils/Helper'
+import { TIMELINE_DATA } from '@/utils/helper'
 import React from 'react'
 import Paragraph from './common/Paragraph'
 

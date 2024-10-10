@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ANTON FONT FAIMLY */
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+/* AEONIK FONT FAIMLY */
 @font-face {
   font-family: "AeonikTRAIL";
   src: url("/assets/fonts/AEONIK-REGULAR.TTF");
@@ -20,6 +24,7 @@
   font-weight: 700;
 }
 
+/* ADD IN WHOLE BODY AEONIK FONT FAIMLY */
 * {
   font-family: "AeonikTRAIL";
 }
