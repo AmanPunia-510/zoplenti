@@ -27,6 +27,8 @@ module.exports = {
       },
       colors: {
         "grey": "#FFFFFF1A",
+        "rich-white": "#FCFCFC;",
+        "bg-color" : "#000c24",
         "rich-white": "#FCFCFC",
         "rich-grey": "#626262",
         "black-pearl": "#000C24",
@@ -42,7 +44,7 @@ module.exports = {
         iconGradient: "linear-gradient(180deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 100%)",
         borderGradient: "linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.1) 100%)",
         hero: "url(../../public/assets/images/png/hero.png)",
-        verticleBorder: "linear-gradient(90deg, #000C24 0%, #33B6FF 10%, #33B6FF 90%, #000C24 100%)",
+        verticleBorder: "linear-gradient(101deg, #000C24 0%, #33B6FF 10%, #33B6FF 90%, #000C24 100%)",
       },
       fontSize: {
         "custom-3xl": "28px",
