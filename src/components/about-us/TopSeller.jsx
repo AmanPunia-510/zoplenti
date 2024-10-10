@@ -5,7 +5,7 @@ const TopSeller = () => {
     return (
         <div className='container max-w-[1180px]'>
             <div className="border border-grey w-full my-16 sm:my-24 lg:my-[140px]"></div>
-            <div className="flex flex-wrap gap-6 justify-center">
+            <div className="flex max-xl:flex-wrap gap-6 justify-center">
                 {TOP_SELLER_DATA.map((obj, index) => (
                     <div className='bg-topSeller rounded-[10px] p-px min-h-[314px]'>
                         <div className='bg-bg-color rounded-[10px] h-full'>
