@@ -1,6 +1,6 @@
 import React from 'react'
 import Paragraph from './Paragraph'
-import { DOMINATE_CATEGORY_DATA_LIST } from '@/utils/Helper'
+import { DOMINATE_CATEGORY_DATA_LIST } from '@/utils/helper'
 
 const WhyItMatter = () => {
     const { heading, cards } = DOMINATE_CATEGORY_DATA_LIST;

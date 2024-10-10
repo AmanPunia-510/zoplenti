@@ -67,6 +67,7 @@ module.exports = {
       fontSize: {
         "custom-3xl": "28px",
         "custom-xl": "30px",
+        "custom-3sxl": "32px",
         "custom-5xl": "56px",
       },
       container: {
