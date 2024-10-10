@@ -1,9 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* ANTON FONT FAIMLY */
-@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
 
 /* AEONIK FONT FAIMLY */
 @font-face {
@@ -31,4 +29,12 @@
 
 body {
   background-color: #000c24;
+}
+
+.strock {
+  -webkit-text-stroke: 2px #132e50;
+}
+.font-anton {
+  font-family: Anton, sans-serif !important;
+  font-weight: 400;
 }

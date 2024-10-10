@@ -7,9 +7,9 @@ import React from 'react'
 const page = () => {
     return (
         <div>
-            <CoreValue />
-            <Leadership />
             <MeetHero />
+            <Leadership />
+            <CoreValue />
             <TopSeller />
         </div>
     )
