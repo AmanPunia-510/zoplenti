@@ -22,5 +22,4 @@ const TopSeller = () => {
         </div>
     )
 }
-
 export default TopSeller
